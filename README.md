@@ -8,7 +8,7 @@ A newbie web developer here! Eager to create a bulk of interesting projects!
 [my portfolio](https://github.com/CodeCary80/resume2).
 
 ### :mailbox_with_no_mail: How to reach me ###
-X:[Twitter](https://twitter.com/zhu72286)
+X:(https://twitter.com/zhu72286)
 
 
 
