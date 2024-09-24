@@ -10,6 +10,8 @@ A newbie web developer here! Eager to create a bulk of interesting projects!
 ### :mailbox_with_no_mail: How to reach me ###
 [X](https://twitter.com/zhu72286)
 
+[Linkdin](in/tianrui-zhu-a443bb262)
+
 
 
 
