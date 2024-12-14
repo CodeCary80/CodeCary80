@@ -1,6 +1,6 @@
 ## CARY ZHU :wave:
 
-<img src="https://www.goldderby.com/wp-content/uploads/2019/06/sense8-finale.jpg?w=620" height="100" alt="hug"> <img src="https://dctribalmedia.com/wp-content/uploads/2023/02/istockphoto-1322457083-170667a.jpg" height="100" alt="R&B"> <img src="https://as1.ftcdn.net/v2/jpg/02/98/11/50/1000_F_298115004_eC3kToFxFBSgy64GiM5S3xZY64Ep14kV.jpg" height="100" alt="snowball">
+<img src="https://repository-images.githubusercontent.com/453651901/539f84fe-4ed8-4173-b6b2-68c0153da097" height="100" alt="htmlcssjs"> <img src="https://www.techmonitor.ai/wp-content/uploads/sites/29/2016/06/SQL.png" height="100" alt="sql"> <img src="https://webdesignerdepot-wp.s3.us-east-2.amazonaws.com/2023/11/28054118/UX.jpg" height="100" alt="UX"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png" height="100" alt="react">
 
 A newbie web developer here! Eager to create a bulk of interesting projects!
 
