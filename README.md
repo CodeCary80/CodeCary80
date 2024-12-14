@@ -8,9 +8,9 @@ A newbie web developer here! Eager to create a bulk of interesting projects!
 [my portfolio](https://github.com/CodeCary80/resume2).
 
 ### :mailbox_with_no_mail: How to reach me ###
-[![Alt Text](https://logos-world.net/wp-content/uploads/2020/11/GitHub-Logo.png)](https://github.com/CodeCary80)
-
-[Linkdin](in/tianrui-zhu-a443bb262)
+[![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/200px-LinkedIn_logo_initials.png)](https://www.linkedin.com/in/tianrui-zhu-a443bb262/)
+[![GitHub](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/GitHub_logo.svg/1200px-GitHub_logo.svg.png)](https://github.com/CodeCary80)
+[![Twitter](https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Twitter_logo%E2%80%93.svg/1200px-Twitter_logo%E2%80%93.svg.png)](https://x.com/zhu72286)
 
 
 
