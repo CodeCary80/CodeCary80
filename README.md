@@ -34,12 +34,6 @@ Tools      Git · Vite · Tailwind CSS · REST APIs · MySQL
 
 ---
 
-## 📈 GitHub Stats
-
-![Cary's GitHub stats](https://github-readme-stats.vercel.app/api?username=CodeCary80&show_icons=true&hide_border=true&theme=default)
-
----
-
 ## 📫 Let's Connect
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-caryzhu.com-black?style=flat-square)](https://caryzhu.com)
