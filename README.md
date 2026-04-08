@@ -1,16 +1,10 @@
-# Hi, I'm Cary Zhu 👋
-
-> Full-stack developer based in **Toronto, Canada** — building accessible, production-ready web apps with React, TypeScript, and PHP.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2800&pause=2000&color=A9FEF7&vCenter=true&width=940&lines=Hi%2C+I'm+Cary+Zhu+%F0%9F%91%8B;Full-Stack+Developer+based+in+Toronto%2C+Canada;React+%7C+TypeScript+%7C+Next.js+%7C+PHP+%7C+WordPress)](https://git.io/typing-svg)
 
 ---
 
 ## 🛠 Tech Stack
 
-```text
-Frontend   React · TypeScript · Next.js · JavaScript (ES6+) · HTML5 · CSS3
-Backend    PHP · Laravel · WordPress · C# · ASP.NET Core
-Tools      Git · Vite · Tailwind CSS · REST APIs · MySQL
-```
+[![My Skills](https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind,php,laravel,wordpress,cs,dotnet,mysql,git,vite&perline=8)](https://skillicons.dev)
 
 ---
 
@@ -34,7 +28,20 @@ Tools      Git · Vite · Tailwind CSS · REST APIs · MySQL
 
 ---
 
+## 📊 GitHub Stats
+
+![Cary's GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=CodeCary80&show_icons=true&hide_border=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=CodeCary80&layout=compact&hide_border=true&theme=tokyonight)
+
+---
+
+## 🐍 Contributions
+
+![Snake animation](https://raw.githubusercontent.com/CodeCary80/CodeCary80/output/github-snake.svg)
+
+---
+
 ## 📫 Let's Connect
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-caryzhu.com-black?style=flat-square)](https://caryzhu.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Cary_Zhu-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/tianrui-zhu-a443bb262/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-caryzhu.com-black?style=for-the-badge)](https://caryzhu.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Cary_Zhu-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/tianrui-zhu-a443bb262/)
