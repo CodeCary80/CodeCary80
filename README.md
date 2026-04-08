@@ -19,7 +19,7 @@ I build clean, accessible interfaces and enjoy turning ideas into working produc
 
 | Project | Description | Stack |
 |---|---|---|
-| [Assembly: Rises](https://github.com/CodeCary80/assembly-rises) | Word-guessing game with full accessibility support | React · TypeScript |
+| [Assembly: Rises](https://github.com/CodeCary80/assembly-rise) | Word-guessing game with full accessibility support | React · TypeScript |
 | [Smart Cook](https://github.com/CodeCary80/smart-cook) | AI-powered recipe generator | React · Claude API |
 | [My Place In This World](https://myplaceinthisworld.ca) | Educational platform with subscription access control | WordPress · PHP · TutorLMS |
 
