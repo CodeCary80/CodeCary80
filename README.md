@@ -8,7 +8,9 @@ I build clean, accessible interfaces and enjoy turning ideas into working produc
 ## 🛠 Tech Stack
 
 **Frontend:** React · TypeScript · Next.js · JavaScript (ES6+) · HTML5 · CSS3
+
 **Backend:** PHP · Laravel · WordPress · C# · ASP.NET Core  
+
 **Tools:** Git · Vite · REST APIs · MySQL
 
 ---
