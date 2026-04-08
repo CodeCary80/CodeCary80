@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2800&pause=2000&color=A9FEF7&vCenter=true&width=940&lines=Hi%2C+I'm+Cary+Zhu+%F0%9F%91%8B;Full-Stack+Developer+based+in+Toronto%2C+Canada;React+%7C+TypeScript+%7C+Next.js+%7C+PHP+%7C+WordPress)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2800&pause=2000&color=1a1a2e&vCenter=true&width=940&lines=Hi%2C+I'm+Cary+Zhu+%F0%9F%91%8B;Full-Stack+Dev+%7C+React+%7C+TypeScript+%7C+Next.js;Building+accessible+web+apps+in+Toronto+%F0%9F%87%A8%F0%9F%87%A6)](https://git.io/typing-svg)
 
 ---
 
