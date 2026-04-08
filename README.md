@@ -1,18 +1,29 @@
-## CARY ZHU :wave:
+# Hi, I'm Cary Zhu 👋
 
-<img src="https://repository-images.githubusercontent.com/453651901/539f84fe-4ed8-4173-b6b2-68c0153da097" height="100" alt="htmlcssjs"> <img src="https://www.techmonitor.ai/wp-content/uploads/sites/29/2016/06/SQL.png" height="100" alt="sql"> <img src="https://webdesignerdepot-wp.s3.us-east-2.amazonaws.com/2023/11/28054118/UX.jpg" height="100" alt="UX"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png" height="100" alt="react">
+Full-stack web developer based in **Toronto, Canada**, with a focus on React, TypeScript, and WordPress/PHP.  
+I build clean, accessible interfaces and enjoy turning ideas into working products.
 
-A newbie web developer here! Eager to create a bulk of interesting projects!
+---
 
-### About me ###
-[my portfolio](https://github.com/CodeCary80/resume2).
+## 🛠 Tech Stack
 
-### :mailbox_with_no_mail: How to reach me ###
-[![LinkedIn](https://via.placeholder.com/150x50/0077B5/FFFFFF?text=LINKEDIN)](https://www.linkedin.com/in/tianrui-zhu-a443bb262/) 
-[![GitHub](https://via.placeholder.com/150x50/24292F/FFFFFF?text=GITHUB)](https://github.com/CodeCary80) 
-[![Twitter](https://via.placeholder.com/150x50/1DA1F2/FFFFFF?text=TWITTER)](https://x.com/zhu72286)
+**Frontend:** React · TypeScript · JavaScript (ES6+) · HTML5 · CSS3  
+**Backend:** PHP · Laravel · WordPress · C# · ASP.NET Core  
+**Tools:** Git · Vite · REST APIs · MySQL
 
+---
 
+## 🚀 Featured Projects
 
+| Project | Description | Stack |
+|---|---|---|
+| [Assembly: Rises](https://github.com/CodeCary80/assembly-rises) | Word-guessing game with full accessibility support | React · TypeScript |
+| [Smart Cook](https://github.com/CodeCary80/smart-cook) | AI-powered recipe generator | React · Claude API |
+| [My Place In This World](https://myplaceinthisworld.ca) | Educational platform with subscription access control | WordPress · PHP · TutorLMS |
 
+---
 
+## 📫 Let's Connect
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-caryzhu.com-blue?style=flat-square)](https://caryzhu.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Cary_Zhu-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/tianrui-zhu-a443bb262/)
