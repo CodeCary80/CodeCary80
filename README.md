@@ -22,7 +22,7 @@
 > 3D model-sharing platform with dynamic model pages, reusable components, search, filtering, and accessible UI  
 `Next.js 15` `TypeScript` `Tailwind CSS` `App Router` `Server Components`
 
-### [My Place In This World](https://myplaceinthisworld.ca)
+### [My Place In This World](https://myplaceinthisworld.ca) · [Live](https://myplaceinthisworld.ca/en)
 > Contributed to a live WordPress learning platform by building JavaScript navigation features and PHP/SQL search functionality  
 `WordPress` `JavaScript` `PHP` `SQL` `Tutor LMS`
 
