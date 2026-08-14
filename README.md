@@ -28,14 +28,6 @@
 
 ---
 
-## GitHub Stats
-
-![Cary's GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=CodeCary80&show_icons=true&hide_border=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=CodeCary80&layout=compact&hide_border=true&theme=tokyonight)
-
----
-
 ## Contributions
 
 ![Snake animation](https://raw.githubusercontent.com/CodeCary80/CodeCary80/output/github-snake.svg)
